@@ -1,0 +1,1 @@
+#include "\z\6sfg\addons\safestart\script_component.hpp"

@@ -1,0 +1,1 @@
+#include "\z\6sfg\addons\flags\script_component.hpp"

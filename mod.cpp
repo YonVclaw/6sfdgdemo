@@ -1,0 +1,12 @@
+name = "YonVs- Project Template";
+picture = "6sfg.paa";
+actionName = "GitHub";
+action = "https://github.com/";
+description = "Project Template";
+logo = "6sfg.paa";
+logoOver = "6sfg.paa";
+tooltip = "Project Template";
+tooltipOwned = "Project Template Weee";
+overview = "Advanced Combat Environment 3 Project Template";
+author = "YonV";
+overviewPicture = "6sfg.paa.paa";

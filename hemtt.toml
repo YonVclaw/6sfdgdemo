@@ -1,0 +1,29 @@
+name = "6SFG"
+prefix = "6SFG"
+author = "YonV"
+template = "cba"
+mainprefix = "z"
+folder_optionals = true
+
+files = [
+    "mod.cpp",
+    "README.md",
+    "LICENSE",
+    "extras/addons",
+    "extras/keys",
+    "AUTHORS.txt",
+    "6sfg.paa"
+    ]
+
+exclude = ["*.psd", "*.png", "*.tga"]
+
+modname = "{{name}}"
+key_name = "{{prefix}}_{{version}}"
+
+releasebuild = [
+    "@zip @6SFG_{{version}}"
+]
+
+[header_exts]
+version = "{{git \"id 8\"}}"
+

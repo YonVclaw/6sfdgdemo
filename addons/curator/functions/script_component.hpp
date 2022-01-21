@@ -1,0 +1,1 @@
+#include "\z\6sfg\addons\curator\script_component.hpp"

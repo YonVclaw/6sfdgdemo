@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="6SFG">
+    <Package name="Difficulty">
+        <Key ID="STR_6SFG_Difficulty_DifficultyName">
+            <English>ArmaForces</English>
+        </Key>
+        <Key ID="STR_6SFG_Difficulty_DifficultyDescription">
+            <English>Custom ArmaForces settings.</English>
+            <Polish>Własne ustawienia ArmaForces.</Polish>
+        </Key>
+    </Package>
+</Project>

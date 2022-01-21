@@ -1,0 +1,1 @@
+#include "\z\6sfg\addons\main_menu\script_component.hpp"

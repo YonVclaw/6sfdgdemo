@@ -1,0 +1,1 @@
+#include "\z\6sfg\addons\fatigue\script_component.hpp"
